@@ -9,18 +9,8 @@ Coleção de exercícios práticos em Python, com foco em lógica de programaç�
 
 ```text
 .
-├── Basic/    Exercícios de nível básico de programação (condicionais, loopings, convenções de escrita, etc)
-│   ├── aprovar_emprestimo.py
-│   ├── calculo_media.py
-│   ├── exercism_1.py
-│   ├── exercism_2.py
-│   ├── exercism_3.py
-│   ├── exercism_4.py
-│   ├── exercism_5.py
-    ├── exercism_6.py
-│   ├── jokenpo.py
-│   ├── periodo_alistamento.py
-│   └── tipos_triangulo.py
+├── Basic/    # Exercícios de nível básico de programação (condicionais, loopings, convenções de escrita, etc)
+│
 └── README.md
 ```
 
