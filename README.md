@@ -31,7 +31,7 @@ Coleção de exercícios práticos em Python, com foco em lógica de programaç�
 | `jokenpo.py` | Jogo de pedra, papel e tesoura |
 | `periodo_alistamento.py` | Verifica a situação do alistamento militar com base na idade |
 | `tipos_triangulo.py` | Classifica um triângulo a partir dos lados informados |
-| `exercism_1.py` a `exercism_5.py` | Soluções de exercícios da plataforma [Exercism](https://exercism.org/tracks/python) |
+| `exercism_1.py` a `exercism_6.py` | Soluções de exercícios da plataforma [Exercism](https://exercism.org/tracks/python) |
 
 ## Conceitos praticados
 
