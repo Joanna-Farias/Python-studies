@@ -20,8 +20,7 @@ Coleção de exercícios práticos em Python, com foco em lógica de programaç�
 │   ├── jokenpo.py
 │   ├── periodo_alistamento.py
 │   └── tipos_triangulo.py
-└── Organizacao/    # Planilha de acompanhamento dos estudos
-    └── estudos.csv
+└── README.md
 ```
 
 ## Divisão das pastas
